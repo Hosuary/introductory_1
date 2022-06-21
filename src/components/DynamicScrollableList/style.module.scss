@@ -1,0 +1,18 @@
+
+.List {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.Item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  margin: 10px 0;
+  border-radius: 8px;
+  background: cornflowerblue;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+}
