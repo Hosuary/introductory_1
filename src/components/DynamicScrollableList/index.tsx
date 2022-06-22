@@ -1,4 +1,4 @@
-import {useState, useRef, useCallback, useMemo} from "react";
+import { useState, useRef, useCallback, useMemo } from "react";
 import styles from "./style.module.scss";
 
 
