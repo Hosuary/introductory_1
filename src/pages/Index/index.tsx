@@ -3,7 +3,7 @@ import DynamicScrollableList from "../../components/DynamicScrollableList";
 import useList from "../../hooks/useList";
 
 
-const LENGTH_OF_ITEMS = 10000;
+const LENGTH_OF_ITEMS = 320;
 const LENGTH_OF_PAGE = 100;
 
 
